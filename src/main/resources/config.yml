@@ -1,0 +1,11 @@
+Config:
+  1:
+    Message: '§a幸运！ §7玩家 §f{player} §7获得了 §f{itemname}'
+    SXItemKey:
+      - 'default-1'
+      - 'default-2'
+  2:
+    Message: '§b绝世！ §7玩家 §f{player} §7获得了 §f{itemname}'
+    SXItemKey:
+      - 'default-3'
+      - 'default-4'

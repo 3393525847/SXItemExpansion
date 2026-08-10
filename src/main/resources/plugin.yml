@@ -3,7 +3,6 @@ description: $description
 version: '${version}'
 
 main: me.qq3393525847.sxitemexpansion.SXItemExpansion
-paper-plugin-loader: me.qq3393525847.sxitemexpansion.SXItemExpansionLoader
 api-version: '1.21'
 load: POSTWORLD
 

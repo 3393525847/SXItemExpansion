@@ -1,0 +1,26 @@
+# IDEA 配置
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Gradle 构建产物
+build/
+gradle/.gradle
+.gradle/
+gradlew.bat
+!gradlew
+!gradle/wrapper/
+
+# 编译class、日志、临时文件
+*.class
+*.log
+*.txt
+.DS_Store
+Thumbs.db
+
+# 插件运行生成的配置/缓存（源码不要提交运行时文件）
+config/
+data/
+plugins/
